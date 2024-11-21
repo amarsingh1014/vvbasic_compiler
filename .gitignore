@@ -1,0 +1,45 @@
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+CMakeLists.txt.user
+CMakeLists.txt.cmake
+CMakeLists.txt.lastrun
+
+# Build and out directories
+build/
+out/
+
+# Object files
+*.o
+*.obj
+
+# Assembly output (if generated during build)
+*.asm
+
+# Executables and binaries (if generated)
+out.exe
+out.out
+a.out
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Testing/Debug output
+test.hy
+
+# Operating system files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Optional: Cache and dependency management
+*.d
+*.dep
+
